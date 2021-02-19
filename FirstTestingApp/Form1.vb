@@ -16,7 +16,8 @@
         Next
     End Sub
 
+
+    'Changes on Github directly
     'Bla bla
     'more Bla bla
-
 End Class
