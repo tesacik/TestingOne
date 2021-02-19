@@ -11,8 +11,9 @@
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
-        For i As Long = 1 To 30 ' changed to 30
+        For i As Long = 1 To 40 ' changed to 30
             Debug.WriteLine(i)
+            Debug.WriteLine(i + 1)
         Next
     End Sub
 
