@@ -3,5 +3,6 @@
         Debug.WriteLine("PPP OOO")
         Debug.WriteLine("PPP OOO PPP")
         Debug.WriteLine("Other line added")
+        Debug.WriteLine("Next line added")
     End Sub
 End Class
