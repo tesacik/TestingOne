@@ -9,4 +9,10 @@
             Debug.WriteLine(i)
         Next
     End Sub
+
+    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+        For i As Long = 1 To 20
+            Debug.WriteLine(i)
+        Next
+    End Sub
 End Class
