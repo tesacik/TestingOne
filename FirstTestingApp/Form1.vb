@@ -17,5 +17,6 @@
     End Sub
 
     'Bla bla
+    'more Bla bla
 
 End Class
