@@ -3,5 +3,9 @@
         Debug.WriteLine("PPP OOO")
         Debug.WriteLine("PPP OOO PPP")
         Debug.WriteLine("Other line added")
+
+        For i As Long = 1 To 10
+            Debug.WriteLine(i)
+        Next
     End Sub
 End Class
