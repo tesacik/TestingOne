@@ -26,4 +26,9 @@
     ' Bla bla
     ' more Bla bla
     ' more Bla bla
+
+    ' Changes on Github directly
+    ' Bla bla
+    ' more Bla bla
+    ' more Bla bla
 End Class
