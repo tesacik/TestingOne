@@ -15,4 +15,7 @@
             Debug.WriteLine(i)
         Next
     End Sub
+
+    'Bla bla
+
 End Class
