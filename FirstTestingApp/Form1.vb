@@ -5,7 +5,7 @@
         Debug.WriteLine("Other line added")
         Debug.WriteLine("Next line added")
 
-        For i As Long = 1 To 10
+        For i As Long = 1 To 20
             Debug.WriteLine(i)
         Next
     End Sub
